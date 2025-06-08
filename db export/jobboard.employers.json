@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "6844b2fb55b69e60e008df49"
+  },
+  "name": "Abhishek Singh",
+  "email": "Abhishek@gmail.com",
+  "password": "$2y$10$7uDtJrwzAv6laR/00G6x..2cO7usLje11XAydnN/gW2ZxtcXjyR1G",
+  "is_employer": true,
+  "created_at": {
+    "$date": "2025-06-07T21:45:31.371Z"
+  }
+}]

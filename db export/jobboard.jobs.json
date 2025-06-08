@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "68447501e1cfea546e50eb67"
+  },
+  "email": "hr@techspark.com",
+  "title": "Frontend Developer",
+  "location": "Bangalore",
+  "region": "Anywhere",
+  "job_type": "Full Time",
+  "description": "<p>Looking for a React.js developer...</p>",
+  "company": {
+    "name": "TechSpark",
+    "tagline": "Innovate Fast",
+    "description": "<p>TechSpark is a product-based company.</p>",
+    "website": "https://techspark.com",
+    "facebook": "techsparkfb",
+    "twitter": "@techspark",
+    "linkedin": "techspark",
+    "logo": "https://dummyimage.com/200x200/000/fff"
+  },
+  "featured_image": "https://dummyimage.com/200x200/000/fff",
+  "created_at": {
+    "$date": "2025-06-07T17:21:05.304Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68447501e1cfea546e50eb68"
+  },
+  "email": "jobs@devify.in",
+  "title": "Backend Engineer",
+  "location": "Remote",
+  "region": "San Francisco",
+  "job_type": "Part Time",
+  "description": "<p>Expertise in Node.js and MongoDB required.</p>",
+  "company": {
+    "name": "Devify",
+    "tagline": "Backend First",
+    "description": "<p>Working on global APIs.</p>",
+    "website": "https://devify.in",
+    "facebook": "devifyfb",
+    "twitter": "@devify",
+    "linkedin": "devify",
+    "logo": "https://dummyimage.com/200x200/000/fff"
+  },
+  "featured_image": "https://dummyimage.com/200x200/000/fff",
+  "created_at": {
+    "$date": "2025-06-07T17:21:05.304Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68447501e1cfea546e50eb69"
+  },
+  "email": "careers@bytecloud.com",
+  "title": "DevOps Engineer",
+  "location": "Mumbai",
+  "region": "Palo Alto",
+  "job_type": "Full Time",
+  "description": "<p>Experience with Docker and AWS.</p>",
+  "company": {
+    "name": "ByteCloud",
+    "tagline": "Cloud Simplified",
+    "description": "<p>We deploy your code.</p>",
+    "website": "https://bytecloud.com",
+    "facebook": "bytecloudfb",
+    "twitter": "@bytecloud",
+    "linkedin": "bytecloud",
+    "logo": "https://dummyimage.com/200x200/000/fff"
+  },
+  "featured_image": "https://dummyimage.com/200x200/000/fff",
+  "created_at": {
+    "$date": "2025-06-07T17:21:05.304Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68447501e1cfea546e50eb6a"
+  },
+  "email": "team@alphaware.io",
+  "title": "UI/UX Designer",
+  "location": "Delhi",
+  "region": "New York",
+  "job_type": "Full Time",
+  "description": "<p>Design modern web interfaces.</p>",
+  "company": {
+    "name": "Alphaware",
+    "tagline": "Design Meets Code",
+    "description": "<p>Creative tech startup.</p>",
+    "website": "https://alphaware.io",
+    "facebook": "alphawarefb",
+    "twitter": "@alphaware",
+    "linkedin": "alphaware",
+    "logo": "https://dummyimage.com/200x200/000/fff"
+  },
+  "featured_image": "https://dummyimage.com/200x200/000/fff",
+  "created_at": {
+    "$date": "2025-06-07T17:21:05.304Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68447501e1cfea546e50eb6b"
+  },
+  "email": "contact@zenapps.co",
+  "title": "Full Stack Developer",
+  "location": "Pune",
+  "region": "Manhattan",
+  "job_type": "Full Time",
+  "description": "<p>Work on MERN stack applications.</p>",
+  "company": {
+    "name": "ZenApps",
+    "tagline": "Clean Code, Fast Apps",
+    "description": "<p>Remote-first startup.</p>",
+    "website": "https://zenapps.co",
+    "facebook": "zenappsfans",
+    "twitter": "@zenapps",
+    "linkedin": "zenapps",
+    "logo": "https://dummyimage.com/200x200/000/fff"
+  },
+  "featured_image": "https://dummyimage.com/200x200/000/fff",
+  "created_at": {
+    "$date": "2025-06-07T17:21:05.304Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68447501e1cfea546e50eb6c"
+  },
+  "email": "join@codegenius.ai",
+  "title": "AI Engineer",
+  "location": "Hyderabad",
+  "region": "Ontario",
+  "job_type": "Part Time",
+  "description": "<p>Experience with Python & ML libraries.</p>",
+  "company": {
+    "name": "CodeGenius",
+    "tagline": "AI in Action",
+    "description": "<p>We build smart assistants.</p>",
+    "website": "https://codegenius.ai",
+    "facebook": "codegenius",
+    "twitter": "@codegenius",
+    "linkedin": "codegenius",
+    "logo": "https://dummyimage.com/200x200/000/fff"
+  },
+  "featured_image": "https://dummyimage.com/200x200/000/fff",
+  "created_at": {
+    "$date": "2025-06-07T17:21:05.304Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68447501e1cfea546e50eb6e"
+  },
+  "email": "apply@logitex.org",
+  "title": "Data Analyst",
+  "location": "Ahmedabad",
+  "region": "Kansas",
+  "job_type": "Full Time",
+  "description": "<p>Excel, SQL, and visualization tools.</p>",
+  "company": {
+    "name": "Logitex",
+    "tagline": "Data Speaks",
+    "description": "<p>We help firms become data driven.</p>",
+    "website": "https://logitex.org",
+    "facebook": "logitex",
+    "twitter": "@logitex",
+    "linkedin": "logitex",
+    "logo": "https://dummyimage.com/200x200/000/fff"
+  },
+  "featured_image": "https://dummyimage.com/200x200/000/fff",
+  "created_at": {
+    "$date": "2025-06-07T17:21:05.304Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68447501e1cfea546e50eb6f"
+  },
+  "email": "team@codecrew.dev",
+  "title": "Mobile App Developer",
+  "location": "Noida",
+  "region": "Mountain botton",
+  "job_type": "FullTime",
+  "description": "<p>&lt;p&gt;&amp;lt;p&amp;gt;&amp;amp;lt;p&amp;amp;gt;&amp;amp;lt;br&amp;amp;gt;&amp;amp;lt;/p&amp;amp;gt;&amp;lt;/p&amp;gt;&lt;/p&gt;</p>",
+  "company": {
+    "name": "CodeCrew",
+    "tagline": "Apps for Everyone",
+    "description": "<p>&lt;p&gt;&amp;lt;p&amp;gt;&amp;amp;lt;p&amp;amp;gt;&amp;amp;lt;br&amp;amp;gt;&amp;amp;lt;/p&amp;amp;gt;&amp;lt;/p&amp;gt;&lt;/p&gt;</p>",
+    "website": "https://codecrew.dev",
+    "facebook": "codecrewdev",
+    "twitter": "@codecrew",
+    "linkedin": "codecrewing",
+    "logo": "https://dummyimage.com/200x200/000/fff"
+  },
+  "featured_image": "https://dummyimage.com/200x200/000/fff",
+  "created_at": {
+    "$date": "2025-06-07T17:21:05.304Z"
+  }
+}]
